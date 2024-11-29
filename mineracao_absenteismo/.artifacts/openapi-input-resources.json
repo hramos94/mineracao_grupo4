@@ -1,0 +1,51 @@
+{
+    "schema": {
+        "type": "object",
+        "properties": {
+            "input-table-163": {
+                "type": "string",
+                "format": "binary"
+            },
+            "input-table-161": {
+                "type": "string",
+                "format": "binary"
+            },
+            "input-table-237": {
+                "type": "string",
+                "format": "binary"
+            },
+            "input-table-203": {
+                "type": "string",
+                "format": "binary"
+            },
+            "input-table-202": {
+                "type": "string",
+                "format": "binary"
+            },
+            "input-table-213": {
+                "type": "string",
+                "format": "binary"
+            }
+        }
+    },
+    "encoding": {
+        "input-table-163": {
+            "contentType": "knime-port/org.knime.core.node.BufferedDataTable"
+        },
+        "input-table-161": {
+            "contentType": "knime-port/org.knime.core.node.BufferedDataTable"
+        },
+        "input-table-237": {
+            "contentType": "knime-port/org.knime.core.node.BufferedDataTable"
+        },
+        "input-table-203": {
+            "contentType": "knime-port/org.knime.core.node.BufferedDataTable"
+        },
+        "input-table-202": {
+            "contentType": "knime-port/org.knime.core.node.BufferedDataTable"
+        },
+        "input-table-213": {
+            "contentType": "knime-port/org.knime.core.node.BufferedDataTable"
+        }
+    }
+}
